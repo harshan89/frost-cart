@@ -1,5 +1,6 @@
 {
   "name": "shopping-cart",
+  "homepage": "https://harshan89.github.io/frost-cart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
