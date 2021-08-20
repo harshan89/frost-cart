@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/frost-cart/static/css/main.1052208a.chunk.css",
-    "main.js": "/frost-cart/static/js/main.b4253938.chunk.js",
-    "main.js.map": "/frost-cart/static/js/main.b4253938.chunk.js.map",
+    "main.js": "/frost-cart/static/js/main.a471df89.chunk.js",
+    "main.js.map": "/frost-cart/static/js/main.a471df89.chunk.js.map",
     "runtime-main.js": "/frost-cart/static/js/runtime-main.80a2de30.js",
     "runtime-main.js.map": "/frost-cart/static/js/runtime-main.80a2de30.js.map",
     "static/js/2.58f2d7a5.chunk.js": "/frost-cart/static/js/2.58f2d7a5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.80a2de30.js",
     "static/js/2.58f2d7a5.chunk.js",
     "static/css/main.1052208a.chunk.css",
-    "static/js/main.b4253938.chunk.js"
+    "static/js/main.a471df89.chunk.js"
   ]
 }
