@@ -1,9 +1,9 @@
 {
   "name": "shopping-cart",
+  "homepage": "https://harshan89.github.io/frost-cart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "https://harshan89.github.io/frost-cart",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
